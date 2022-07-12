@@ -1,6 +1,6 @@
 # Voice Assistant using Python
 
-<a href = "https://cdn-icons.flaticon.com/png/512/4575/premium/4575380.png?token=exp=1657629957~hmac=b739354dcd45abc8af0f8717313945e9"/>
+![Voice Assistant](/Image "Voice Assistant Logo")
 
 # Introduction :<br>
 Voice assistants are devices/apps that use voice recognition technology,<br> natural language processing, and AI to respond to humans.
